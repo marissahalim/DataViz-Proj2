@@ -16,7 +16,6 @@ var option = {
     },
     series: [
         {
-            name: 'Categories',
             type: 'bar',
             data: [
                 {
